@@ -33,8 +33,8 @@
         .nav-btn {
             @include inline-block;
             font: 14px/1.3 muliregular;
-            color: $theme-color-main !important;
-            border: 2px solid $theme-color-main-hover;
+            color: #80E7FF !important;
+            border: 2px solid #80E7FF;
             padding: 7px 24px 6px;
             box-shadow: none;
             border-radius: 0;
@@ -44,8 +44,8 @@
 
             &:hover {
                 color: #fff !important;
-                background: $theme-color-main;
-                border-color: $theme-color-main;
+                background: #80E7FF;
+                border-color: #80E7FF;
                 text-decoration: none;
             }
         }

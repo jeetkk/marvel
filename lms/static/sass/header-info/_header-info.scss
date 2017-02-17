@@ -40,7 +40,7 @@
     &_text {
         font-size: 12px;
         line-height: 15px;
-        color: $theme-color-grey;
+        color: #fff;
         display: none;
         @media all and (min-width: 860px){
             display: block;
@@ -50,7 +50,7 @@
     &_phone {
         font-size: 12px;
         line-height: 15px;
-        color: $theme-color-grey;
+        color: #fff;
         padding-left: 18px;
         background: url('#{$theme-img-path}phone.png') no-repeat 0 50%;
         @media all and (min-width: 860px){
@@ -60,7 +60,7 @@
     &_mail {
         font-size: 12px;
         line-height: 15px;
-        color: $theme-color-grey;
+        color: #fff;
         background: url('#{$theme-img-path}mail.png') no-repeat 0 50%;
         padding-left: 18px;
         margin-left: 18px;
@@ -78,5 +78,5 @@
     }
 }
 .theme-header {
-    background: #1f1d20;
+    background: #005FA8;
 }

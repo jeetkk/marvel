@@ -22,13 +22,13 @@
             text-shadow: none;
             height: 40px;
             color: #fff !important;
-            background: $theme-color-main;
-            border: 1px solid $theme-color-main;
+            background: #80E7FF;
+            border: 1px solid #80E7FF;
 
             &:hover {
-                color: $theme-color-main !important;
+                color: #005FA8 !important;
                 background: #fff;
-                border: 1px solid $theme-color-main-hover;
+                border: 1px solid #005FA8;
                 text-decoration: none;
             }
         }
